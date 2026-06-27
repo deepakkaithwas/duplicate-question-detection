@@ -178,6 +178,10 @@ Run the cells sequentially in Jupyter Notebook, JupyterLab, Google Colab, or Kag
 
 This repository is intended as a simple and reproducible implementation companion for the final MSc thesis. It is intentionally kept lightweight and notebook-driven so that the methodology, experiments, and results can be reviewed easily.
 
+## 11. Runing code on Google Colab
+
+<https://colab.research.google.com/drive/1UwkqDWsqIeD6nmv4j99NIdlO77P3Rp0w?usp=sharing>
+
 ## 11. Author
 
 **Deepak Kaithwas**  
