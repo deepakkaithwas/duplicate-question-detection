@@ -1,0 +1,15 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+scipy
+xgboost
+rapidfuzz
+torch
+transformers
+sentence-transformers
+tqdm
+shap
+jupyter
+notebook
