@@ -1,3 +1,3 @@
 # Sample Output
 
-This folder can be used to store sample screenshots or exported result tables from the notebook if required for thesis submission.
+This folder contains master reult and google colab link and exported result tables from the notebook required for thesis submission.
